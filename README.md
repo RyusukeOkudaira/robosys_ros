@@ -29,7 +29,7 @@ $ ./setup.sh
 ```
 $ cd ~/catkin_ws/src/robosys_ros/script
 $ roscore &
-$ rosrun robosys_ros sub_led.py
+$ rosrun robosys_ros sub_led.py &
 $ rosrun robosys_ros pub_led.py
 ```
 
