@@ -2,7 +2,8 @@
 課題１で製作したLEDのデバイスドライバ([robosys-device-driver](https://github.com/RyusukeOkudaira/robosys-device-driver))を少し改造し，ROSを用いて光らせるパッケージです。
 
 # Demo movie
-[ROS for Light the three LED](https://www.youtube.com/watch?v=-X8fsAv6zqY)(YouTube) 
+- YouTube
+[ROS for Light the three LED](https://www.youtube.com/watch?v=-X8fsAv6zqY)
 
 # Requirements
 - Raspberry Pi 3
