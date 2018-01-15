@@ -11,7 +11,7 @@
 - ROS Kinetic
 - LED
 
-# Instaallation
+# Installation
 - download repository 
 ```
 $ cd ~/catkin_ws/src
