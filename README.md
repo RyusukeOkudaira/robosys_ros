@@ -15,7 +15,7 @@
 - download repository 
 ```
 $ cd ~/catkin_ws/src
-$ git clone git clone https://github.com/RyusukeOkudaira/robosys_ros.git
+$ git clone https://github.com/RyusukeOkudaira/robosys_ros.git
 ```
 - set up
 ```
