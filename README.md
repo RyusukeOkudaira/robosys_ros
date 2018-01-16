@@ -23,7 +23,7 @@ $ cd ~/catkin_ws
 $ catkin_make
 $ cd ~/catkin_ws/src/robosys_ros/led_driver
 $ chmod +x setupfile.sh
-$ ./setup.sh
+$ ./setupfile.sh
 ```
 
 # Usage
